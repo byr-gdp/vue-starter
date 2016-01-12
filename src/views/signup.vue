@@ -1,12 +1,13 @@
 <template>
-		{{msg}}
+  signup
 </template>
 
 <script>
 module.exports = {
-	el: '#app',
-	data: {
-		msg: "Hello World"
-	},
+  data: function() {
+    return {
+    
+    }
+  }
 }
 </script>
